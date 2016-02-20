@@ -1,5 +1,5 @@
 # Coursera-UoW-ML-2
-Coursera UoW Machine Learning: Regression
+#### Coursera UoW Machine Learning: Regression
 
 ### Case Study - Predicting Housing Prices
 
