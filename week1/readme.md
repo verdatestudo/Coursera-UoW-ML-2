@@ -1,5 +1,4 @@
-# Coursera-UoW-ML-1
-#### Coursera UoW Machine Learning Foundations: A Case Study Approach
+# Coursera-UoW-ML-2
 
 ##### Week 1
 
