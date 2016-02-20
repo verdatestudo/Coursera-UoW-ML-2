@@ -1,7 +1,6 @@
 # Coursera-UoW-ML-2
-#### Coursera UoW Machine Learning: Regression
-
-### Case Study - Predicting Housing Prices
+### Coursera UoW Machine Learning: Regression
+##### Case Study - Predicting Housing Prices
 
 <em>
 In our first case study, predicting house prices, you will create models that predict a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...).  This is just one of the many places where regression can be applied.  Other applications range from predicting health outcomes in medicine, stock prices in finance, and power usage in high-performance computing, to analyzing which regulators are important for gene expression.
